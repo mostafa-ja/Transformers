@@ -4,6 +4,9 @@ Six notebooks from April 2023, studying the transformer architecture the way it 
 
 They were written while I was learning this material, following the sources credited in each notebook, with my own notes, detours and checks kept in place. Outputs are preserved from the original runs. For the deeper from-scratch work that came later, see [LLM_from_scratch](https://github.com/mostafa-ja/LLM_from_scratch).
 
+*A note on dates: the notebooks and their outputs are from April 2023. This repository was reorganised and documented in November 2026 — the original 2023 commits are preserved, with one reorganisation commit on top.*
+
+
 ## Reading order
 
 | # | Notebook | What it does |
